@@ -1,0 +1,260 @@
+{
+ "StudyFieldsResponse": {
+  "APIVrs": "1.01.05",
+  "DataVrs": "2022:07:18 23:19:46.084",
+  "Expression": "heart attack",
+  "FieldList": [
+   "NCTId",
+   "Condition",
+   "BriefTitle"
+  ],
+  "MaxRank": 20,
+  "MinRank": 1,
+  "NStudiesAvail": 421889,
+  "NStudiesFound": 9109,
+  "NStudiesReturned": 20,
+  "StudyFields": [
+   {
+    "BriefTitle": [
+     "China Acute Myocardial Infarction Registry"
+    ],
+    "Condition": [
+     "Acute Myocardial Infarction"
+    ],
+    "NCTId": [
+     "NCT01874691"
+    ],
+    "Rank": 1
+   },
+   {
+    "BriefTitle": [
+     "Post-Myocardial Infarction Patients in Santa Catarina, Brazil - Catarina Heart Study"
+    ],
+    "Condition": [
+     "Myocardial Infarction"
+    ],
+    "NCTId": [
+     "NCT03015064"
+    ],
+    "Rank": 2
+   },
+   {
+    "BriefTitle": [
+     "Left Atrial Distensibility and Left Ventricular Filling Pressure in Acute Myocardial Infarction"
+    ],
+    "Condition": [
+     "Myocardial Infarction"
+    ],
+    "NCTId": [
+     "NCT01168609"
+    ],
+    "Rank": 3
+   },
+   {
+    "BriefTitle": [
+     "Asan Medical Center Myocardial Infarction Registry"
+    ],
+    "Condition": [
+     "Myocardial Infarction, Acute",
+     "Coronary Stenosis"
+    ],
+    "NCTId": [
+     "NCT03412435"
+    ],
+    "Rank": 4
+   },
+   {
+    "BriefTitle": [
+     "CMR Findings in COVID-19 Patients Presenting With Myocardial Infarction"
+    ],
+    "Condition": [
+     "Myocardial Infarction"
+    ],
+    "NCTId": [
+     "NCT04628104"
+    ],
+    "Rank": 5
+   },
+   {
+    "BriefTitle": [
+     "The Influence of Acute Myocardial Infarction Checklist on the Door-to-Balloon Time"
+    ],
+    "Condition": [
+     "Myocardial Infarction"
+    ],
+    "NCTId": [
+     "NCT00632788"
+    ],
+    "Rank": 6
+   },
+   {
+    "BriefTitle": [
+     "Gait Speed for Predicting Cardiovascular Events After Myocardial Infarction"
+    ],
+    "Condition": [
+     "Myocardial Infarction"
+    ],
+    "NCTId": [
+     "NCT01484158"
+    ],
+    "Rank": 7
+   },
+   {
+    "BriefTitle": [
+     "Wiser Choices in Acute Myocardial Infarction"
+    ],
+    "Condition": [
+     "Acute Myocardial Infarction"
+    ],
+    "NCTId": [
+     "NCT00888537"
+    ],
+    "Rank": 8
+   },
+   {
+    "BriefTitle": [
+     "Efficacy of an Early Phase Single Bolus r-SAK for Acute Myocardial Infarction: a Multi-center Randomized Clinical Trial"
+    ],
+    "Condition": [
+     "Acute Myocardial Infarction"
+    ],
+    "NCTId": [
+     "NCT05023681"
+    ],
+    "Rank": 9
+   },
+   {
+    "BriefTitle": [
+     "The Role of Genetic Factors in the Development of Myocardial Infarction in the Kazakh Population"
+    ],
+    "Condition": [
+     "Heart Attack"
+    ],
+    "NCTId": [
+     "NCT05090618"
+    ],
+    "Rank": 10
+   },
+   {
+    "BriefTitle": [
+     "Relation Between Aldosterone and Cardiac Remodeling After Myocardial Infarction"
+    ],
+    "Condition": [
+     "Myocardial Infarction"
+    ],
+    "NCTId": [
+     "NCT01109225"
+    ],
+    "Rank": 11
+   },
+   {
+    "BriefTitle": [
+     "Association of Snowfall and Myocardial Infarction"
+    ],
+    "Condition": [
+     "Acute Myocardial Infarction"
+    ],
+    "NCTId": [
+     "NCT02913820"
+    ],
+    "Rank": 12
+   },
+   {
+    "BriefTitle": [
+     "Heart Attack Research Program: Platelet Sub-Study (HARP)"
+    ],
+    "Condition": [
+     "Myocardial Infarction"
+    ],
+    "NCTId": [
+     "NCT03022552"
+    ],
+    "Rank": 13
+   },
+   {
+    "BriefTitle": [
+     "Detection and Significance of Heart Injury in ST Elevation Myocardial Infarction."
+    ],
+    "Condition": [
+     "Acute ST-elevation Myocardial Infarction"
+    ],
+    "NCTId": [
+     "NCT02072850"
+    ],
+    "Rank": 14
+   },
+   {
+    "BriefTitle": [
+     "Examining Heart Attacks in Young Women"
+    ],
+    "Condition": [
+     "Acute Myocardial Infarction"
+    ],
+    "NCTId": [
+     "NCT00597922"
+    ],
+    "Rank": 15
+   },
+   {
+    "BriefTitle": [
+     "Acute Myocardial Infarction by Penetrating Cardiac Trauma"
+    ],
+    "Condition": [
+     "Myocardial Infarction"
+    ],
+    "NCTId": [
+     "NCT01182064"
+    ],
+    "Rank": 16
+   },
+   {
+    "BriefTitle": [
+     "Safety Evaluation of Intracoronary Infusion of Extracellular Vesicles in Patients With AMI"
+    ],
+    "Condition": [
+     "Heart Attack"
+    ],
+    "NCTId": [
+     "NCT04327635"
+    ],
+    "Rank": 17
+   },
+   {
+    "BriefTitle": [
+     "Selatogrel Outcome Study in Suspected Acute Myocardial Infarction"
+    ],
+    "Condition": [
+     "Acute Myocardial Infarction"
+    ],
+    "NCTId": [
+     "NCT04957719"
+    ],
+    "Rank": 18
+   },
+   {
+    "BriefTitle": [
+     "MiSaver® Stem Cell Treatment for Heart Attack (Acute Myocardial Infarction)"
+    ],
+    "Condition": [
+     "Myocardial Infarction"
+    ],
+    "NCTId": [
+     "NCT04050163"
+    ],
+    "Rank": 19
+   },
+   {
+    "BriefTitle": [
+     "Feasibility of High Frequency QRS Analysis in Patients With Acute Myocardial Infarction"
+    ],
+    "Condition": [
+     "Myocardial Infarction"
+    ],
+    "NCTId": [
+     "NCT01150825"
+    ],
+    "Rank": 20
+   }
+  ]
+ }
+}
